@@ -1,0 +1,18 @@
+.labelstrt {
+    display: inline-block;
+    width: 180px;
+}
+
+.labelstrt2 {
+    display: inline-block;
+    width: 180px;
+    position: relative;
+    bottom: 30px;
+}
+
+.inpcheck {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 4px;
+}
